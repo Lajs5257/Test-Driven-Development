@@ -1,0 +1,27 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lajs5257/Test-Driven-Development.git"
+  },
+  "keywords": [],
+  "author": "Lajs5257",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lajs5257/Test-Driven-Development/issues"
+  },
+  "homepage": "https://github.com/Lajs5257/Test-Driven-Development#readme",
+  "devDependencies": {
+    "standard": "^17.0.0",
+    "vitest": "0.26.3"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"}
+}
